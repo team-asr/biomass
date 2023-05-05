@@ -1,0 +1,9 @@
+<servlet>
+   <servlet-name>BiomassSMS</servlet-name>
+   <servlet-class>BiomassSMS</servlet-class>
+</servlet>
+
+<servlet-mapping>
+   <servlet-name>BiomassSMS</servlet-name>
+   <url-pattern>/sms</url-pattern>
+</servlet-mapping>
