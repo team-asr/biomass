@@ -3,6 +3,8 @@ Repository for Open Drone CAD files to build an aerial platform for dispersing s
 The platform is a Autogyros powered by two pusher propellers. We use 12S Lithium Batteries (44.4V) 10AH batteries to sustain endurance of at least an hour, carrying a payload of 20kgs.
 We employ an Autogyros due to good autorotation capability and less complexity to helicopters.
 
+![alt tag](fuselage-side.png)
+
 Our design is currently developed using Audodesk Inventor, and is being ported to FreeCAD in due course.
 In the meantime, you can build your own platform simply by using the provided PDF labeled fuselage-top-side-print as follows:<br>
 a. Print the top and side profiles of the fuselage to your prefered scale. The provided document is 1m long approcximately.<br>
