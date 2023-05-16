@@ -4,6 +4,7 @@ The platform is a Autogyros powered by two pusher propellers. We use 12S Lithium
 We employ an Autogyros due to good autorotation capability and less complexity to helicopters.
 
 ![alt tag](fuselage-side.png)
+Image 1.0: Side profile of the aerial platform. Notice front notch for landing gear.
 
 Our design is currently developed using Audodesk Inventor, and is being ported to FreeCAD in due course.
 In the meantime, you can build your own platform simply by using the provided PDF labeled fuselage-top-side-print as follows:<br>
